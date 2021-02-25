@@ -42,7 +42,7 @@ const Home = () => {
             countUp[+]
           </button>
         </section>
-        <section style={{ 'margin-top': '40px' }}>
+        <section style={{ marginTop: '40px' }}>
           <input
             type="text"
             value={name}
